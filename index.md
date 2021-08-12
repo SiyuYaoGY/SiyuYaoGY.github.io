@@ -4,11 +4,16 @@ layout: default
 
 <img src="https://github.com/SiyuYaoGY/SiyuYaoGY.github.io/blob/main/Siyuyao.JPG?raw=true" width="400" />
 
-I am a graduate student of astrophysics at the Johns Hopkins Univerisity ([JHU](https://physics-astronomy.jhu.edu)). I love physics, math, philosophy, [classical music](https://sihaocheng.github.io/music), kendo, and anime. Recently, I am reading an astonishing book: [*A Logical Journey: From Gödel to Philosophy*](https://mitpress.mit.edu/books/logical-journey).
+I am a graduate student from the Department of History and Philosophy of Science, Indiana University Bloomington ([HPS at IUB](https://hpsc.indiana.edu/)). I major in philosophy of science, with a minor in cognitive science. I love to study how traditional philosophical concepts and questions shape the development of scientific theories and practices, and how the progress in science conversely give new meanings to them.
 
-<h1 id="Research">Research</h1>
-I like to view astrophysical problems from both perspectives of physics and statistics using survey data. My interests range from the evolution of universe to stars and planets.
+<h1 id="Research Interests">Research Interests:</h1>
+
 <br>
+General philosophy of science: traditional topics like inference, confirmation, explanation, and scientific methodology.
+<br>
+Philosophy of special sciences: philosophical issues invigorated by fascinating scientific domains like machine learning, cognitive science, astronomy, and historical sciences.
+<br>
+Intellectual history of science: philosophy and science have been constantly shaping each other over the history, especially in periods of drastic social and intellectual transition. I am especially interested in Naturphilosophie (the German word that stands for both natural philosophy and some part of natural science at the time) of German Idealism (Kant and Schelling) and Romanticism (Goether).
 
 ## New statistics for cosmology and astrophysics
 <a href="s22.html"><img src="https://github.com/SihaoCheng/SihaoCheng.github.io/blob/master/s22.png?raw=true" width="450" /></a>
@@ -85,28 +90,12 @@ Advisor: Prof. [Eric Peng (彭逸西)](http://kiaa.pku.edu.cn/info/1011/2660.htm
 [Marigo, P.](http://www.astro.unipd.it/marigo/index.html), [Cummings, J. D.](https://pages.jh.edu/~jcummi19/), **et al.**, _Carbon star formation as seen through the non-monotonic initial–final mass relation_, 2020, [Nature Astronomy](https://doi.org/10.1038/s41550-020-1132-1), [full text here](https://rdcu.be/b5r2A)
 
 <h1 id="Contacts">Contacts</h1>
-s.cheng@jhu.edu
+siyuyao@iu.edu
 <br>
-+1 443 207 1532
++1 812 606 3983
 <br>
-Bloomberg 506
+Ballantine Hall 914
 <br>
-3400 N. Charles St., Johns Hopkins University
+1020 East Kirkwood Avenue, Indiana University
 <br>
-Baltimore, MD21218, USA
-
-
-<h1 id="skymap">Sky Altas (Aladin)</h1>
-<!-- you can find more information about this cool embedded sky altas on http://aladin.u-strasbg.fr/AladinLite/doc/#embedding -->
-<!-- include Aladin Lite CSS file in the head section of your page -->
-<link rel="stylesheet" href="https://aladin.u-strasbg.fr/AladinLite/api/v2/latest/aladin.min.css" />
- 
-<!-- you can skip the following line if your page already integrates the jQuery library -->
-<script type="text/javascript" src="https://code.jquery.com/jquery-1.12.1.min.js" charset="utf-8"></script>
- 
-<!-- insert this snippet where you want Aladin Lite viewer to appear and after the loading of jQuery -->
-<div id="aladin-lite-div" style="width:600px;height:400px;"></div>
-<script type="text/javascript" src="https://aladin.u-strasbg.fr/AladinLite/api/v2/latest/aladin.min.js" charset="utf-8"></script>
-<script type="text/javascript">
-    var aladin = A.aladin('#aladin-lite-div', {survey: "P/DSS2/color", fov:1, target: "20 45 38.000 +30 42 30.00"});
-</script>
+Bloomington, IN 47405, USA
