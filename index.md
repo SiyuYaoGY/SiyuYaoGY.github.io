@@ -8,12 +8,13 @@ I am a graduate student from the Department of History and Philosophy of Science
 
 <h1 id="Research Interests">Research Interests:</h1>
 
+<strong>General philosophy of science</strong>: traditional topics like inference, confirmation, explanation, and scientific methodology.
 <br>
-General philosophy of science: traditional topics like inference, confirmation, explanation, and scientific methodology.
 <br>
-Philosophy of special sciences: philosophical issues invigorated by fascinating scientific domains like machine learning, cognitive science, astronomy, and historical sciences.
+<strong>Philosophy of special sciences</strong>: philosophical issues invigorated by fascinating scientific domains like machine learning, cognitive science, astronomy, and historical sciences.
 <br>
-Intellectual history of science: philosophy and science have been constantly shaping each other over the history, especially in periods of drastic social and intellectual transition. I am especially interested in Naturphilosophie (the German word that stands for both natural philosophy and some part of natural science at the time) of German Idealism (Kant and Schelling) and Romanticism (Goethe).
+<br>
+<strong>Intellectual history of science</strong>: philosophy and science have been constantly shaping each other over the history, especially in periods of drastic social and intellectual transition. I am especially interested in Naturphilosophie (the German word that stands for both natural philosophy and some part of natural science at the time) of German Idealism (Kant and Schelling) and Romanticism (Goethe).
 
 <h1 id="Education">Education:</h1>
 
@@ -23,14 +24,18 @@ Intellectual history of science: philosophy and science have been constantly sha
 <br>
 2019-now, Ph.D. in Philosophy of Science
 <br>
-### [Peking University](https://english.pku.edu.cn/)(北京大学)
-<strong>[Department of Philosophy and Religious Studies](https://en.phil.pku.edu.cn/)</strong>
+<img src="https://github.com/SiyuYaoGY/SiyuYaoGY.github.io/blob/main/IUB.jpg?raw=true" width="400">
+<br>
+### [Peking University](https://en.phil.pku.edu.cn/)([北京大学](https://www.pku.edu.cn/))
+<strong>Department of Philosophy and Religious Studies</strong>
 <br>
 2016-2019, M.A. in Philosophy of Science
 <br>
-<strong>[College of Chemistry and Molecular Engineering](https://www.chem.pku.edu.cn/en/index.htm)</strong>
+<strong>College of Chemistry and Molecular Engineering([CCME](https://www.chem.pku.edu.cn/en/index.htm))</strong>
 <br>
 2012-2016, B.Sc. in Chemistry
+<br>
+<img src="https://github.com/SiyuYaoGY/SiyuYaoGY.github.io/blob/main/PKU.JPG?raw=true" width="400">
 
 <h1 id="Contacts">Contacts</h1>
 siyuyao@iu.edu
