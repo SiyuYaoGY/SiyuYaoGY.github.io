@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img src="https://github.com/SiyuYaoGY/SiyuYaoGY.github.io/blob/main/Siyuyao.JPG?raw=true" style="float:left;width:300/>
+<p><img src="https://github.com/SiyuYaoGY/SiyuYaoGY.github.io/blob/main/Siyuyao.JPG?raw=true" style="float:left;width:300">I am a graduate student from the Department of History and Philosophy of Science, Indiana University Bloomington ([HPS at IUB](https://hpsc.indiana.edu/)). I major in philosophy of science, with a minor in cognitive science. I love to study how traditional philosophical concepts and questions shape the development of scientific theories and practices, and how the progress in science conversely give new meanings to them.</p>
 
 I am a graduate student from the Department of History and Philosophy of Science, Indiana University Bloomington ([HPS at IUB](https://hpsc.indiana.edu/)). I major in philosophy of science, with a minor in cognitive science. I love to study how traditional philosophical concepts and questions shape the development of scientific theories and practices, and how the progress in science conversely give new meanings to them.
 
