@@ -4,7 +4,9 @@ layout: default
 
 <img src="https://github.com/SiyuYaoGY/SiyuYaoGY.github.io/blob/main/Siyuyao.JPG?raw=true">
 
-I am a graduate student from the Department of History and Philosophy of Science, Indiana University Bloomington ([HPS at IUB](https://hpsc.indiana.edu/)). I major in philosophy of science, with a minor in cognitive science ([CogSci at IUB](https://cogs.indiana.edu/)). I love to study how traditional philosophical concepts and questions shape the development of scientific theories and practices, and how the progress in science conversely give new meanings to them.
+I am a graduate student from the Department of History and Philosophy of Science, Indiana University Bloomington ([HPS at IUB](https://hpsc.indiana.edu/)). I major in philosophy of science, with a minor in cognitive science ([CogSci at IUB](https://cogs.indiana.edu/)). I love to study how traditional philosophical concepts and questions shape the development of scientific theories and practices, and how the progress in science conversely give new meanings to them. 
+<br>
+Outside of academia, I am also a serious [Kendo](https://en.wikipedia.org/wiki/Kendo) practitioner and a continental philosophy lover. I like classical music, line drawing, cooking, and playing the keyboard part of violin sonatas with my partner.
 
 <h1 id="Research Interests">Research Interests:</h1>
 
