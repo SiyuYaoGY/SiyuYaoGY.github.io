@@ -4,7 +4,7 @@ layout: default
 
 <img src="https://github.com/SiyuYaoGY/SiyuYaoGY.github.io/blob/main/Siyuyao.JPG?raw=true">
 
-I am a graduate student from the Department of History and Philosophy of Science, Indiana University Bloomington ([HPS at IUB](https://hpsc.indiana.edu/)). I major in philosophy of science, with a minor in cognitive science. I love to study how traditional philosophical concepts and questions shape the development of scientific theories and practices, and how the progress in science conversely give new meanings to them.
+I am a graduate student from the Department of History and Philosophy of Science, Indiana University Bloomington ([HPS at IUB](https://hpsc.indiana.edu/)). I major in philosophy of science, with a minor in cognitive science ([CogSci at IUB](https://cogs.indiana.edu/)). I love to study how traditional philosophical concepts and questions shape the development of scientific theories and practices, and how the progress in science conversely give new meanings to them.
 
 <h1 id="Research Interests">Research Interests:</h1>
 
@@ -26,10 +26,12 @@ I am a graduate student from the Department of History and Philosophy of Science
 <br>
 <img src="https://github.com/SiyuYaoGY/SiyuYaoGY.github.io/blob/main/IUB.jpg?raw=true" width="400">
 <br>
-### [Peking University](https://en.phil.pku.edu.cn/)([北京大学](https://www.pku.edu.cn/))
+### [Peking University](https://en.phil.pku.edu.cn/) ([北京大学](https://www.pku.edu.cn/))
 <strong>Department of Philosophy and Religious Studies</strong>
 <br>
 2016-2019, M.A. in Philosophy of Science
+<br>
+Advisor: Yongping Sun (孙永平)
 <br>
 <strong>College of Chemistry and Molecular Engineering([CCME](https://www.chem.pku.edu.cn/en/index.htm))</strong>
 <br>
@@ -42,7 +44,7 @@ siyuyao@iu.edu
 <br>
 +1 812 606 3983
 <br>
-Ballantine Hall 914
+Ballantine Hall 916
 <br>
 1020 East Kirkwood Avenue, Indiana University
 <br>
