@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img src="https://github.com/SiyuYaoGY/SiyuYaoGY.github.io/blob/main/Siyuyao.JPG?raw=true" style="width:200">
+<img src="https://github.com/SiyuYaoGY/SiyuYaoGY.github.io/blob/main/Siyuyao.JPG?raw=true" style="width:50">
 
 I am a graduate student from the Department of History and Philosophy of Science, Indiana University Bloomington ([HPS at IUB](https://hpsc.indiana.edu/)). I major in philosophy of science, with a minor in cognitive science. I love to study how traditional philosophical concepts and questions shape the development of scientific theories and practices, and how the progress in science conversely give new meanings to them.
 
@@ -18,7 +18,7 @@ Intellectual history of science: philosophy and science have been constantly sha
 <h1 id="Education">Education:</h1>
 
 <br>
-General philosophy of science: traditional topics like inference, confirmation, explanation, and scientific methodology.
+
 <br>
 Philosophy of special sciences: philosophical issues invigorated by fascinating scientific domains like machine learning, cognitive science, astronomy, and historical sciences.
 <br>
