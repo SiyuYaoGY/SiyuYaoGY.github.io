@@ -35,7 +35,7 @@ I am a graduate student from the Department of History and Philosophy of Science
 <br>
 2012-2016, B.Sc. in Chemistry
 <br>
-<img src="https://github.com/SiyuYaoGY/SiyuYaoGY.github.io/blob/main/PKU.JPG?raw=true" width="400">
+<img src="https://github.com/SiyuYaoGY/SiyuYaoGY.github.io/blob/main/PKU.jpg?raw=true" width="400">
 
 <h1 id="Contacts">Contacts</h1>
 siyuyao@iu.edu
