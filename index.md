@@ -22,6 +22,7 @@ Machine learning with artificial neural networks (ANNs) has become an essential 
 <br>
 <br>
 <strong>Historical inferences in astronomy</strong>: 
+<img src="https://github.com/SiyuYaoGY/SiyuYaoGY.github.io/blob/main/Gaia.jpg?raw=true">
 <br>
 Acquiring knowledge about the deep past is difficult. Philosophers have been studying the special inferential patterns and strategies used in historical sciences, as well as how their validity and credibility are warranted. Recent practices in astronomy share many features with other historical sciences. I analyze those astronomical practices in light of the philosophical discussions surrounding the epistemology and methodology of historical sciences. This not only provides a more sufficient description of astronomical practices, but it also highlights a more nuanced notion of historical evidence ("trace") that has not been fully addressed by other philosophers.
 <br>
