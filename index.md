@@ -17,7 +17,7 @@ Works in progress:
 <br>
 <br>
 <strong>Epistemological issues of machine learning</strong>:
-<img src="https://github.com/SiyuYaoGY/SiyuYaoGY.github.io/blob/main/AI.jpeg">
+<img src="https://github.com/SiyuYaoGY/SiyuYaoGY.github.io/blob/main/AI.jpeg?raw=true">
 <br>
 Machine learning with artificial neural networks (ANNs) has become an essential part of many scientific inquiries, promoting novel discoveries. Recent developments in explainable artificial intelligence ([XAI](https://en.wikipedia.org/wiki/Explainable_artificial_intelligence)) present ways to "open the black box" of ANNs and illuminate how they achieve their strong performance. This is expected to aid the application of machine learning by overcoming potential dangers of opaque statistical inferences and automated reasoning, building trust over artifical intelligence, and revealing novel correlations or even causal mechanisms in the target domain. Our study answers whether these expectations can really be met, to what extent the use of ANNs and XAI extends our epistemic power at the frontier of scientific inquiries, and where their limitations lie. (Work with [Prof. Amit Hagar](https://hpsc.indiana.edu/about/faculty/hagar-amit.html))
 <br>
@@ -37,7 +37,7 @@ Master thesis:
 <br>
 <br>
 <strong>Kant and F.W.J Schelling's dynamic <i>Naturphilosophie</i></strong>: 
-<img src="https://github.com/SiyuYaoGY/SiyuYaoGY.github.io/blob/main/SchellingKant.png">
+<img src="https://github.com/SiyuYaoGY/SiyuYaoGY.github.io/blob/main/SchellingKant.png?raw=true">
 <br>
 Initiated by Leibniz, inherited and developed by Kant, Schelling, and other <i>Naturphilosophen</i>, dynamics forms a philosophical tradition about nature alternative to mechanistic philosophy, constituting an important part of the intellectual history of science in 18-19th century Europe. Kant and Schelling’s thoughts about dynamics are crucial parts of this tradition, but there are significant differences between them. These differences relate to the remaining problems of Kant’s dynamics and and how Schelling recognizes, analyzes, and tentatively surmounts those problems. I study Schelling’s critique and development of Kant’s theory of dynamics, clarify their theories and how they relate to each other, present the conceptual tension internal to the concepts of force and matter, and situate the trend of thought in a larger background of the development of natural sciences.
 
