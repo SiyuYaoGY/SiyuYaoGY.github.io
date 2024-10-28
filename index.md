@@ -7,7 +7,7 @@ layout: default
 I am a Ph.D. Candidate in the Department of History and Philosophy of Science, Indiana University Bloomington ([HPS at IUB](https://hpsc.indiana.edu/)). I major in philosophy of science, with a minor in cognitive science ([CogSci at IUB](https://cogs.indiana.edu/)).
 <br>
 <br>
-At the intersection of philosophy, science, and history, I find my interest in a variety of topics. These include general philosophy of science (inference, evidence, scientific explanation, and scientific methodology), philosophical issues of special sciences (astronomy, machine learning, and cognitive science), and intellectual history of science (19th-century natural philosophy, matter theory, mechanism vs dynamicism). My approach to philosophy is based on understanding real scientific practices. Scientists evolving approaches and active puzzles inspire novel philosophical topics and invite contributions from philosophers.
+At the intersection of philosophy, science, and history, I find my interest in a variety of topics. These include general philosophy of science (inference, evidence, scientific explanation, and scientific methodology), philosophical issues of special sciences (astronomy, machine learning, and cognitive science), and intellectual history of science (19th-century natural philosophy, matter theory, mechanism vs dynamicism). My approach to philosophy is based on understanding real scientific practices. Scientists' evolving approaches and active puzzles inspire novel philosophical topics and invite contributions from philosophers.
 <br>
 <br>
 When not working, I might be running, climbing, cooking, or playing piano sonatas (struggling and enjoying). More rarely, I might be able to practice [Kendo](https://en.wikipedia.org/wiki/Kendo), a martial art I've been loving for years.
@@ -34,17 +34,19 @@ Yao S. 2023. Excavation in the Sky: Historical Inference in Astronomy. *Philosop
 <br>
 Yao S. Forthcoming. The First Three Minutes: Cosmology, Astrophysics, and Particle Physics. In: Aviezer Tucker and David Černín (eds.) *Bloomsbury Handbook on the Philosophy of the Historical Sciences and Big History*[(preprint)](https://SiyuYaoGY.github.io/SY_Big History_The First Three Minutes.pdf)
 <br>
+<br>
 <strong>Computational Models in Cognitive Science</strong>: 
 <br>
 In cognitive science, simple AI models are used to study complex cognitive phenomena. Animat models, for example, consist of simple artificial agents trained to perform tasks analogous to certain animal or human behaviors. My research analyzes how and when these simplified models can be considered to implement complex cognitive functions. I abstract the target cognitive function from animal or human behavior studies, identify their features, and match them with animat models. In a collaborative work with [Eduardo J. Izquierdo](https://edizquierdo.github.io/), I critically analyzed present models of referential communication and proposed a new modeling strategy inspired by behavioral tudies of bumble bees.
 Yao S., J. Nunley, and E. J. Izquierdo. 2023. Go by Its Name: Evolution and Analysis of Conceptual Referential Communication *Proceedings of the 2023 Artificial Life Conference*. [(published version)](https://direct.mit.edu/isal/proceedings/isal2023/35/64/116907)[(code)](https://github.com/SiyuYaoGY/Conceptual-Referential-Communication)
+<br>
 <br>
 <strong>Mechanism and mechanistic explanation in cognitive science</strong>: 
 <br>
 Mechanism and mechanistic explanation have been in the horizon of science since ancient times. They have been continuously challenged, reshaped, and re-popularized with development of science. The prevalence of dynamical theory and network science in cognitive science reinvigorates the debate surrounding the definition, explanatory power, and heuristic utility of the notion of a mechanism. I am currently researching into the standard of calling something a mechanism, as well as its gain and loss in ontological, explanatory, and heuristic aspects.
 <br>
 <br>
-Master thesis:
+<strong>Master thesis:</strong>
 <br>
 <br>
 <strong>Kant and F.W.J Schelling's dynamic <i>Naturphilosophie</i></strong>: 
